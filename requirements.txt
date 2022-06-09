@@ -1,7 +1,5 @@
-streamlit_webrtc
-mediapipe
+opencv-python
 opencv-python-headless
 streamlit 
-opencv-python
-freeglut3-dev
-libgtk2.0-dev
+streamlit_webrtc
+mediapipe

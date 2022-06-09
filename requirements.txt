@@ -1,5 +1,5 @@
-opencv-python
-opencv-python-headless
 streamlit 
 streamlit_webrtc
-mediapipe
+mediapipe==0.8.7
+opencv-python==4.2.0.34
+opencv-python-headless

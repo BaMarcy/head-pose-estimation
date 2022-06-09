@@ -5,12 +5,13 @@ Created on Wed Jun  8 03:09:33 2022
 @author: Deepworker
 """
 
-import cv2
+
 import numpy as np
 import av
 import time
 import mediapipe as mp
 from streamlit_webrtc import webrtc_streamer, WebRtcMode, RTCConfiguration
+import cv2
 
 
 mp_face_mesh = mp.solutions.face_mesh

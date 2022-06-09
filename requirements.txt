@@ -3,6 +3,5 @@ mediapipe
 opencv-python-headless
 streamlit 
 opencv-python
-aiortc==1.0.0
 freeglut3-dev
 libgtk2.0-dev
